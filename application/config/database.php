@@ -75,7 +75,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'jws-app-mysql',
+	'hostname' => 'jws-app-mysql:3306',
 	'username' => 'user',
 	'password' => 'password',
 	'database' => 'servidor_rest',
